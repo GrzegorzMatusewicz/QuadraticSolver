@@ -1,0 +1,11 @@
+C:\1projekty\wsb\dotnet\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\1projekty\wsb\dotnet\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.AssemblyInfoInputs.cache
+C:\1projekty\wsb\dotnet\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.AssemblyInfo.cs
+C:\1projekty\wsb\dotnet\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.csproj.CoreCompileInputs.cache
+C:\1projekty\wsb\dotnet\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.deps.json
+C:\1projekty\wsb\dotnet\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.dll
+C:\1projekty\wsb\dotnet\QuadraticSolver\bin\Debug\net8.0\QuadraticSolver.pdb
+C:\1projekty\wsb\dotnet\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.dll
+C:\1projekty\wsb\dotnet\QuadraticSolver\obj\Debug\net8.0\refint\QuadraticSolver.dll
+C:\1projekty\wsb\dotnet\QuadraticSolver\obj\Debug\net8.0\QuadraticSolver.pdb
+C:\1projekty\wsb\dotnet\QuadraticSolver\obj\Debug\net8.0\ref\QuadraticSolver.dll
